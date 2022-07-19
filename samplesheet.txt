@@ -1,0 +1,10 @@
+678      mouse liver    old female OF
+681      mouse liver    young   female YF
+682      mouse liver    young   female YF
+685      mouse liver    old     female OF
+686      mouse liver    old     female OF
+690      mouse liver    young   female YF
+675      mouse liver    old     male OM
+679      mouse liver    young   male YM
+687      mouse liver    young   male YM
+688      mouse liver    young   male YM
